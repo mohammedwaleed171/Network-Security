@@ -1,7 +1,7 @@
 # Network Security
 
 ### We will be using Tryhackme's NetSec Challenge room to answer scenario based questions. This room is the culmination of the Network Security module, requiring familiarity with the use of Nmap to scan networks, Telnet to act as a client for engaging with different protocols and Hydra for performing dictionary attacks on weak login credentials.
-### The purpose of this room to have an understanding and learn about passive reconnaissance, active reconnaissance, Nmap, protocols and services, and attacking logins with Hydra.
+### The purpose of this room is to have an understanding and learn about passive reconnaissance, active reconnaissance, Nmap, protocols and services, and attacking logins with Hydra.
 
 ## Q1: What is the highest port number being open less than 10,000?
   - Run a basic nmap scan on the target
